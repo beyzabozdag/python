@@ -1,1 +1,2 @@
 print("beyza")
+print("bozdag")
